@@ -6,4 +6,8 @@ Multi AZ Hybrid Cloud Infrastructure With AWS and Azure DevOps, Capable of Pushi
 
 ![](https://i.ibb.co/Swwqphk/screencapture-medium-basit-raza-designing-multi-az-hybrid-cloud-infrastructure-with-aws-and-azure-su.png)
 
+
+AND
 ![](https://i.ibb.co/Rj81cMP/screencapture-medium-basit-raza-designing-multi-az-hybrid-cloud-infrastructure-with-aws-and-azure-su.png)
+
+
